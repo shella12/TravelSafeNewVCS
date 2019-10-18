@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "211474236557",
+    "firebase_url": "https://newproject-51ed3.firebaseio.com",
+    "project_id": "newproject-51ed3",
+    "storage_bucket": "newproject-51ed3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211474236557:android:4607776fa7f6d361",
+        "android_client_info": {
+          "package_name": "com.example.dell.shoponline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211474236557-qotcnvla1un64bf4f52b67q94eq63ts8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.shoponline",
+            "certificate_hash": "d7439e30cbbdc74df49d9ebbde0a10175ecd1acf"
+          }
+        },
+        {
+          "client_id": "211474236557-128hg9s3comee702knv0hohbjo13id5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa1hRqlb9CQlQrElkcsmnwZMrDPele7cQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211474236557-128hg9s3comee702knv0hohbjo13id5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211474236557:android:57e12c8ebc6e0472e40ec4",
+        "android_client_info": {
+          "package_name": "com.example.dell.travelsafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211474236557-3vdk5ts75j830riehaf9f2pj518ejmc7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.travelsafe",
+            "certificate_hash": "ddfa108677585f544774c85c1f9522938e329284"
+          }
+        },
+        {
+          "client_id": "211474236557-128hg9s3comee702knv0hohbjo13id5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa1hRqlb9CQlQrElkcsmnwZMrDPele7cQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211474236557-128hg9s3comee702knv0hohbjo13id5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
